@@ -1,6 +1,6 @@
 {
   "name": "easy-auth-middleware",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Express middleware to compose auth pipeline.",
   "author": "Buddhike de Silva",
   "license": "MIT",
